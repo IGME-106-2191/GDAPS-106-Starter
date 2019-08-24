@@ -9,34 +9,11 @@ Get your favorite Git client:
 * [SourceTree](https://www.sourcetreeapp.com/)
 * Or just use [Visual Studio](https://git-scm.com/book/en/v2/Appendix-A%3A-Git-in-Other-Environments-Git-in-Visual-Studio)'s plugin
 
-## Forking
-
-Fork this repo onto your own account by hitting the fork button
-
-Name the repo in the following convention:
-
-```RUBY
-lastName-firstName-106-sectionNumber
-```
-
-For example, the TA's repo could look like this:
-
-```RUBY
-hoffman-ben-106-02
-```
-
-## Adding Members
-
-Now that you have the repo on _your_ account, you need to add the Professor and the TA to the repo as `Reporters` so that we can see your work. This option is under `Settings > Members` in your repo.
-
-Professor: `@esmvcs`
-
-TA: `@bah8892`
 
 After you have done that, then your repo is all set! Just clone it and get to work!
 If you have questions feel free to reach out to the TA on Discord or by email.
 
-### Why are we using Git?
+# Why are we using Git?
 
 Some of you may be thinking: "Why are these silly people making me use _source control?!_"
 
